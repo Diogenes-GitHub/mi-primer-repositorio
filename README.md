@@ -1,3 +1,3 @@
-# Mi primer READM
+# Mi primer README
 
 Mi primer repositorio en GitHub
